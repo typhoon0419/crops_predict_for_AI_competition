@@ -1,0 +1,14 @@
+
+*.JPG
+model_predict.zip
+01_dataPreprocessing_224.ipynb
+02_data224.ipynb
+kaggle.ipynb
+md5sum.txt
+model.weight.data-00000-of-00001
+model.weight.index
+my_model.hdf5
+project final.pdf
+total_test.csv
+output.csv
+*.JPG
